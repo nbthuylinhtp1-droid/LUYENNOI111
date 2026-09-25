@@ -1,0 +1,6 @@
+{
+  "name": "Gia Sư Luyện Nói Học Sinh Giỏi Quốc Gia 12 - ThS.NGƯT Nguyễn Bùi Thùy Linh",
+  "description": "Ứng dụng Gia sư Luyện nói Học sinh Giỏi Quốc gia 12 - Tác giả ThS.NGƯT Nguyễn Bùi Thùy Linh: Ôn tập từ vựng C1/C2 theo chủ đề, hướng dẫn chiến thuật 5 phút đạt điểm cao và phòng thi nói bấm giờ ghi âm 30 chuyên đề.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
